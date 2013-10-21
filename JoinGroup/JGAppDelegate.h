@@ -7,6 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Parse/Parse.h>
+#import <FacebookSDK/FacebookSDK.h>
+#import "JGTabBarController.h"
+#import "SubclassConfigViewController.h"
+
+extern NSString *const FBSessionStateChangedNotification;
 
 @interface JGAppDelegate : UIResponder <UIApplicationDelegate>
 
