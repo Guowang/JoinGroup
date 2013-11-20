@@ -1,4 +1,4 @@
 JoinGroup
 =========
 
-iOS app
+iOS app with	Schurz Innovation Prize Award (Spring 2013)
